@@ -1,19 +1,23 @@
-<!--타이틀 부분
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
--->
+<!--타이틀 부분 -->
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&animation=fadeIn&section=header&text=&fontAlign=70)
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&animation=fadeIn&section=footer&text=&fontAlign=70&fontSize=50)
 
+
+<!--
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephSeong&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
+-->
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=JosephSeong&theme=tokyonight&show_icons=true" width="42%" />
 </a>
+
+
+
+
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
