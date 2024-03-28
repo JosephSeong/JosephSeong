@@ -12,11 +12,11 @@
 -->
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosephSeong&theme=tokyonight&show_icons=true" width="50%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=JosephSeong&theme=tokyonight&show_icons=true" /> 
 </a>
 
 <a href="s">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosephSeong&theme=tokyonight" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosephSeong&theme=tokyonight" width="42%" /> 
 </a>
 
 
