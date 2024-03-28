@@ -12,7 +12,7 @@
 -->
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosephSeong&theme=tokyonight&show_icons=true" width="45%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=JosephSeong&theme=tokyonight&show_icons=true" width="50%" /> 
 </a>
 
 <a href="s">
