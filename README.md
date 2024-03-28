@@ -16,7 +16,7 @@
 </a>
 
 <a href="s">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosephSeong&theme=tokyonight" width="43%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosephSeong&theme=tokyonight&bg_color=00000000" width="43%" /> 
 </a>
 
 
