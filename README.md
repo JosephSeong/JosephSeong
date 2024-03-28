@@ -6,7 +6,7 @@
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&animation=fadeIn&section=header&text=&fontAlign=70)
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&animation=fadeIn&section=footer&text=&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&animation=fadeIn&section=footer&text=JosephSeong&fontAlign=70)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
