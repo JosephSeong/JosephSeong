@@ -14,9 +14,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JosephSeong&theme=tokyonight&show_icons=true" width="50%" /> 
 </a>
 
-<a href="s">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosephSeong&theme=tokyonight)](https://git.io/streak-stats)
-</a>
+
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JosephSeong&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
