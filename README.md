@@ -6,7 +6,7 @@
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&animation=fadeIn&section=header&text=&fontAlign=70)
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&animation=fadeIn&section=footer&text=&fontAlign=70&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&animation=fadeIn&section=footer&text=&fontAlign=70&fontSize=50)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
