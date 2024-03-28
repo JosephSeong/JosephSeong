@@ -11,7 +11,7 @@
 </a>
 -->
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosephSeong&theme=tokyonight&show_icons=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JosephSeong&theme=tokyonight&show_icons=true" width="50%" />
 </a>
 
 
