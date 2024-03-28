@@ -5,11 +5,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&animation=fadeIn&section=footer&text=&fontAlign=70&fontSize=50)
 
 
-<!--
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephSeong&exclude_repo=JosephSeong.github.io&layout=compact&theme=tokyonight" />
 </a>
--->
+
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=JosephSeong&theme=tokyonight&show_icons=true" width="50%" /> 
